@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-import  random
+import random
 from traceback import print_tb
 number = random.randint(-10, 10)
 if number > 0:
